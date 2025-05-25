@@ -1,0 +1,14 @@
+# Soil Classification Part 1
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Annam.ai",
+  "Kaggle Username": "tuheenabose",
+  "Team Name": "Geek Guardians",
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores for training data",
+    "alluvial soil": 0.98,
+    "red soil": 1.00,
+    "black soil": 0.99,
+    "clay soil": 0.97
+  }
+}
